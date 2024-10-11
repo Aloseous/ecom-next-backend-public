@@ -1,0 +1,18 @@
+npx create-next-app@latest ./
+npm install @clerk/nextjs
+npm i lucide-react // for icons
+npx shadcn@latest init
+npx shadcn@latest add separator
+npm i react-hook-form zod
+npx shadcn@latest add form input textarea
+npm install next-cloudinary
+npm i mongoose
+npm i react-hot-toast
+npx shadcn@latest add table
+npx shadcn@latest add alert-dialog
+npx shadcn@latest add badge
+npx shadcn@latest add command
+npx shadcn@latest add card
+
+
+
